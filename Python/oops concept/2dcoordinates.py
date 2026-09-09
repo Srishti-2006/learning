@@ -1,3 +1,6 @@
+# create a 2d coordinate system where user can view 2d coordinates .
+#find distance between points and its distance from origin 
+#also user can find distance from point to a given line 
 class Point:
     def __init__(self,x,y):
         self.x_cod=x
